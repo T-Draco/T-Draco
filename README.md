@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Biotechnology and Bioinformatics.
 - 💞️ I’m looking to collaborate on (currently) my pairwise visualization tool. It has some problems. 
 - 📫 How to reach me (currently N/A)
-- 😄 Pronouns: she/her
 - ⚡ Fun facts: Draco is the name of my dog. I learned I enjoy learning about computers much later in my studies while working towards an M.S. in Biotechnology. I like video games. 
 
 <!---
